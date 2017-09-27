@@ -33,3 +33,6 @@ http://www.shfe.com.cn/news/notice/310253402.html
 20150508 即黄大豆1号、黄大豆2号、豆粕、豆油、棕榈油、铁矿石、焦炭、焦煤  http://www.dce.com.cn/dalianshangpin/yw/fw/jystz/ywtz/5000381/index.html
 
 20141212  白糖，棉花，菜粕，甲醇 ，pta   http://www.czce.com.cn/portal/rootfiles/2014/12/05/1415698821336840-1415698821338953.pdf
+
+usage:
+python2.7   genca2.py
